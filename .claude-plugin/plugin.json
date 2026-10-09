@@ -1,0 +1,15 @@
+{
+  "name": "slash-alias",
+  "version": "0.1.0",
+  "description": "Expand short slash aliases to the original command in the prompt box with Tab.",
+  "author": { "name": "slash-alias contributors" },
+  "userConfig": {
+    "enabled": {
+      "type": "boolean",
+      "title": "Slash aliases",
+      "description": "Offer configured slash aliases in the prompt autocomplete menu.",
+      "required": false,
+      "default": true
+    }
+  }
+}

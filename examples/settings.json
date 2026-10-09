@@ -1,0 +1,9 @@
+{
+  "pluginConfigs": {
+    "slash-alias": {
+      "options": {
+        "alias.a1": "long-namespace:long-command-name"
+      }
+    }
+  }
+}

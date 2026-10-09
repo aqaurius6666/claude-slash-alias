@@ -1,0 +1,4 @@
+{
+  "description": "Offer alias autocomplete rows that insert the original command on Tab",
+  "modules": ["./register.ts"]
+}

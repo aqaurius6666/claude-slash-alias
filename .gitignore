@@ -1,0 +1,25 @@
+# Generated Claude Code types and local settings
+.claude/types/
+.claude-plugin/types/
+.claude/settings.local.json
+.claude/worktrees/
+
+# Dependencies and generated output
+node_modules/
+coverage/
+dist/
+*.tsbuildinfo
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs, temporary files, and editor metadata
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
